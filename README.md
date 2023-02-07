@@ -30,4 +30,6 @@ swarm, kuberenetes, etc.) Para la creacion del CI/CD se puede utilizar cualquier
 plataforma (CircleCI, Gitlab, Github, Bitbucket.)
 
 
->Las siguientes actividades se encuentran realizadas. Ademas dejo un link del repositorio en GitLab en donde se completa la actividad 2 y 3. (La carpeta WebAppDocker es la aplicacion que esta en GitLab)
+>Las siguientes actividades se encuentran realizadas. Ademas dejo un link del repositorio en GitLab en donde se completa la actividad 2 y 3. (El submodule WebAppDocker es la App que esta en GitLab)
+
+https://gitlab.com/sziinocolanino/docker-react-django
